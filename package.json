@@ -1,26 +1,25 @@
 {
-    "name": "react-native-spectrum",
-    "version": "0.0.1-alpha",
-    "description": "React Native Spectrum",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Enouvo/ReactNative-Spectrum.git"
-    },
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "postinstall": "node ../pod-installer/index.js"
-    },
-    "keywords": [
-      "react-native", "spectrum", "image"
-    ],
-    "author": "Enouvo IT Solution Company",
-    "license": "Apache License",
-    "dependencies": {
-      "pod-installer": "0.0.0"
-    },
-    "devDependencies": {
-     
-    }
-  }
-  
+  "name": "react-native-spectrum",
+  "version": "0.0.1-alpha",
+  "description": "React Native Spectrum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enouvo/ReactNative-Spectrum.git"
+  },
+  "keywords": [
+    "rn-spectrum",
+    "react-native",
+    "spectrum",
+    "enouvo"
+  ],
+  "author": "Enouvo IT Solution Company",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enouvo/ReactNative-Spectrum/issues"
+  },
+  "homepage": "https://github.com/Enouvo/ReactNative-Spectrum#readme"
+}
