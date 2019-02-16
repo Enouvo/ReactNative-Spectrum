@@ -1,5 +1,5 @@
 {
-  "name": "Example",
+  "name": "example",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.3.1",
     "react-native": "0.56.1",
-    "react-native-spectrum": "../"
+    "rn-spectrum": "../"
   },
   "devDependencies": {
     "babel-jest": "24.0.0",

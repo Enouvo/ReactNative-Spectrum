@@ -1,10 +1,10 @@
 # React-Native Spectrum
 
 ## How to install
-* npm install react-native-spectrum --save
+* npm install rn-spectrum --save
 
 ## Linking
-* react-native link react-native-spectrum
+* react-native link rn-spectrum
 
 ## Android 
 
