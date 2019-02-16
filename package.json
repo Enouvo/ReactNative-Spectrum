@@ -1,6 +1,6 @@
 {
   "name": "rn-spectrum",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1",
   "description": "React Native Spectrum",
   "main": "index.js",
   "scripts": {
